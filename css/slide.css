@@ -1,0 +1,37 @@
+.slider__slide{
+    display: flex;
+    min-width: 945px;
+    min-height: 400px;
+    box-sizing: border-box;
+}
+
+
+
+.slider__slide__img{
+    object-fit: cover;
+    position: absolute;
+}
+.slider__slide__info{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+    width: 33%;
+    background: #CB463E99;
+    box-sizing: border-box;
+    margin-left: 10%;
+    padding: 0px 10px;
+}
+.slider__slide__info__h2{
+    font-family: MonserratSemiBold;
+    font-weight: 600;
+    font-size: 1.25rem;
+    color: white;
+}
+.slider__slide__info__p{
+    font-family: MonserratRegular;
+    font-weight: 400;
+    font-size: 1rem;
+    color: white;
+}
