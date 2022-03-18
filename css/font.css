@@ -14,3 +14,13 @@
     font-family: "MonserratLight";
     src: url("../font/Montserrat-Light.ttf") format("truetype");
 }
+.MonserratRegular_15_400{
+    font-size: 0.9rem;
+    font-weight: 400;
+    font-family: MonserratRegular;
+}
+.MonserratRegular_18_400{
+    font-size: 1.1rem;
+    font-weight: 400;
+    font-family: MonserratRegular;
+}
